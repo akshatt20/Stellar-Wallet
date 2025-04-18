@@ -45,9 +45,8 @@ With AI capabilities advancing rapidly there will be a huge push by major blockc
 
 I used stellar lab ([https://lab.stellar.org](https://lab.stellar.org/)) to test functionalities before coding them.
 
-I created a liquidity pool for the Stellar AMM with XLM and XRPTEST. Pool Id: ff73bfc5d459b609dc76ecf52589d8895700c0b9f355daf422909764540f91f9
+I created a liquidity pool for the Stellar AMM with XLM and XRPTEST.
 
-Distributor wallet for XRPTEST: GCGPIBEHXSWBVKQIOJF6F3JLM5FIFD6A7GO52UBNCU6T2GJIAN236Q3W
 
  **Improvements & Future Ideas** :
 
